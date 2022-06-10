@@ -6,6 +6,10 @@ $ sudo apt update
 
 ´´´
 
+``` 
+$ apt install nutapt install nut
+```
+
 ################### instalar SSMTP ########################
 
 ´´´
