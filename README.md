@@ -12,9 +12,9 @@ $ sudo apt install ssmtp
 ```
 
 ################# Configurar ssmtp ###############
-
+```
 $ nano /etc/ssmtp/ssmtp.conf
-
+```
 ################ ssmtp.conf  ###############
 
 root=site-alarm@netdev.cl
