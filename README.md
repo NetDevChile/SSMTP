@@ -16,7 +16,7 @@ $ sudo apt install ssmtp
 $ nano /etc/ssmtp/ssmtp.conf
 ```
 ################ ssmtp.conf  ###############
-
+```
 root=site-alarm@netdev.cl
 mailhub=mail.netdev.cl:587
 AuthUser=site-alarm@netdev.cl
@@ -26,7 +26,8 @@ UserSTARTTLS=YES
 FromLineOverride=YES
 UserTLS=YES
 useTLSCert=YES
-
+```
 ############### revaliases #################
-
+```
 nut:site-alarm@netdev.cl:mail.netdev.cl:587
+```
