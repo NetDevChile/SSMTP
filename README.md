@@ -3,6 +3,7 @@ Is a Send-Only SendMail Service Installed by APT
 
 ´´´
 $ sudo apt update
+
 ´´´
 
 ################### instalar SSMTP ########################
