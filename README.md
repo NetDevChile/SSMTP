@@ -1,13 +1,8 @@
 # SSMTP
 Is a Send-Only SendMail Service Installed by APT 
 
-´´´
-$ sudo apt update
-
-´´´
-
 ``` 
-$ apt install nutapt install nut
+$ sudo apt update
 ```
 
 ################### instalar SSMTP ########################
