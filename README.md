@@ -7,9 +7,9 @@ $ sudo apt update
 
 ################### instalar SSMTP ########################
 
-´´´
-$ apt install ssmtp
-´´´
+``` 
+$ sudo apt install ssmtp
+```
 
 ################# Configurar ssmtp ###############
 
